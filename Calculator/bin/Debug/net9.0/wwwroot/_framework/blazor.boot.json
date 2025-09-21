@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Calculator",
   "resources": {
-    "hash": "sha256-/E7qy/c4KDniVwr9Vkhjh1sP8VTVkwW5P2iiX9898a0=",
+    "hash": "sha256-Gg6oUps1fELR1hWT4n26GXQFtpjxT5nm884K90uqyzg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.gf26ou9jj9.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.v3fd2n5hlr.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Calculator.viq3e3vjzn.wasm": "Calculator.wasm",
-      "Calculator.91en9bel8z.pdb": "Calculator.pdb"
+      "Calculator.2b8qzn70bs.wasm": "Calculator.wasm",
+      "Calculator.kvyw5f27y9.pdb": "Calculator.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -412,10 +412,10 @@
       "WindowsBase.5lai2eowco.wasm": "sha256-GcDi5293y2A7oSiFYTbBTUe0d+ISbvgeel4ZNd8KkPM=",
       "mscorlib.wzkfrp7u5k.wasm": "sha256-9PjsU0gaxxz5Vyw++p9DeYUWLsaXbaMS2RbX6wmTUmk=",
       "netstandard.d82br99ghv.wasm": "sha256-DS8keXxU4eQpa1kIoiFxOA2Ii2g9hoNWSaVi8F8AnIE=",
-      "Calculator.viq3e3vjzn.wasm": "sha256-+ezlbcVtnRCr92GIpD4d9JX53LTwzhK+2s92M7UJnvU="
+      "Calculator.2b8qzn70bs.wasm": "sha256-ciQjwgxMusGAyd+ZjH4tKjG7QimRyC1e8VKC2vrPajE="
     },
     "pdb": {
-      "Calculator.91en9bel8z.pdb": "sha256-zXtePsRv8T5bm6fwLY3updHhFCs7Ncz+ToR8743RoTw="
+      "Calculator.kvyw5f27y9.pdb": "sha256-cObgnQgwZ6XmjKNo4pdELu+PUyuWPMwqVXyY7eFtF3Y="
     }
   },
   "cacheBootResources": true,
